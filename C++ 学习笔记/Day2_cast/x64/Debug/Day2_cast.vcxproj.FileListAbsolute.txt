@@ -1,0 +1,2 @@
+C:\Users\hnist\Desktop\Code\Day2_cast\x64\Debug\Day2_cast.exe
+C:\Users\hnist\Desktop\Code\Day2_cast\x64\Debug\Day2_cast.pdb

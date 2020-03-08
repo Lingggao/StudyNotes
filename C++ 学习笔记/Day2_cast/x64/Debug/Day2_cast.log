@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\hnist\Desktop\Code\Day2_cast\源.cpp(48,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\hnist\Desktop\Code\Day2_cast\源.cpp(60,59): warning C4311: “reinterpret_cast”: 从“int *”到“int”的指针截断
+C:\Users\hnist\Desktop\Code\Day2_cast\源.cpp(60,59): warning C4302: “reinterpret_cast”: 从“int *”到“int”截断
+C:\Users\hnist\Desktop\Code\Day2_cast\源.cpp(60,65): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“int *”
+  Day2_cast.vcxproj -> C:\Users\hnist\Desktop\Code\Day2_cast\x64\Debug\Day2_cast.exe
