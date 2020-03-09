@@ -1,12 +1,14 @@
 # 学习笔记
-> 作者 - Ling Gao (高楷修)  
-> 师从 - GuiLin Wang (王桂林)
+> Ling Gao 的个人学习笔记 :satisfied:
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![HitCount](http://hits.dwyl.com/lingggao/StudyNotes.svg)](http://hits.dwyl.com/lingggao/StudyNotes)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
-## C++
+## C++ :heart:
+
+> 作者 - Ling Gao (高楷修)  
+> 师从 - GuiLin Wang (王桂林)
 
 1. **C++ 标准输入输出 (无注释)**
 	- [**CPP**](https://github.com/Lingggao/StudyNotes/blob/master/C%2B%2B%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Day1_cin_cout/main.cpp)
