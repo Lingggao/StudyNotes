@@ -5,12 +5,10 @@ Ling Gao 的 C++ 学习笔记~
 [![HitCount](http://hits.dwyl.com/lingggao/EMS.svg)](http://hits.dwyl.com/lingggao/EMS)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
-1. 
-
+1. **C++ string 字符串类**
+  1. CPP
+  2. 项目文件夹
 2. 
-
 3. 
-
 4. 
-
 5. 
