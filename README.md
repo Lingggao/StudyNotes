@@ -1,5 +1,6 @@
 # C++ 学习笔记
-Ling Gao 的 C++ 学习笔记~  
+> 作者 - Ling Gao (高楷修)
+> 师从 - GuiLin Wang (王桂林)
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![HitCount](http://hits.dwyl.com/lingggao/StudyNotes.svg)](http://hits.dwyl.com/lingggao/StudyNotes)
