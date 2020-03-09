@@ -1,5 +1,5 @@
 # 学习笔记
-> Ling Gao 的个人学习笔记 :satisfied:
+**Ling Gao 的个人学习笔记 :satisfied:**
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![HitCount](http://hits.dwyl.com/lingggao/StudyNotes.svg)](http://hits.dwyl.com/lingggao/StudyNotes)
