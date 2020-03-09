@@ -35,6 +35,6 @@
 ## HTML 5 :yellow_heart:
 
 > 作者 - Ling Gao (高楷修)  
-> 师从 - GuiLin Wang (王桂林)
+> 师从 - ?
 
 1. 
