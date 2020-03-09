@@ -1,5 +1,5 @@
 # C++ 学习笔记
-> 作者 - Ling Gao (高楷修)
+> 作者 - Ling Gao (高楷修)  
 > 师从 - GuiLin Wang (王桂林)
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
