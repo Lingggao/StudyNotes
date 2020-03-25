@@ -2,7 +2,6 @@
 **Ling Gao 的个人学习笔记 :satisfied:**
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
-[![HitCount](http://hits.dwyl.com/lingggao/StudyNotes.svg)](http://hits.dwyl.com/lingggao/StudyNotes)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ## C++ :heart:
